@@ -1,0 +1,25 @@
+1;N041.40.07.000;E044.57.05.000;
+1;Sierra;Sierra;
+1;RINGI;RINGI;
+
+2;N041.40.07.000;E044.57.05.000;
+2;Sierra;Sierra;
+2;GIGOS;GIGOS;
+
+3;N041.40.07.000;E044.57.05.000;
+3;November;November;
+3;URBAN;URBAN;
+
+4;N041.40.07.000;E044.57.05.000;
+4;November;November;
+4;Juliett;Juliett;
+4;Romeo;Romeo;
+4;CHIVA;CHIVA;
+
+//3nm helping line north
+5;N041.49.49.000;E044.50.44.000;
+5;N041.34.04.000;E045.09.47.000;
+
+//3nm helping line south
+6;N041.45.47.000;E044.44.54.000;
+6;N041.30.01.000;E045.03.52.000;
