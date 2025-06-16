@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Rwy FCL.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>Rwy FCL</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				41.61103167979331,41.60173297596101,0 41.61145314194539,41.60209357396951,0 41.61192384864654,41.60178128024889,0 41.61233335879895,41.60213171714779,0 41.58856828261681,41.61758030378667,0 41.58814293480434,41.61722851999051,0 41.58863765042275,41.61690359754078,0 41.58824376362046,41.61656074294177,0 41.588916000053,41.61610043501663,0 41.58946746597037,41.61612390560528,0 41.58985361677574,41.6160317062865,0 41.61002333790694,41.60293675809833,0 41.61011042152178,41.60287093918924,0 41.61019440899286,41.60278629186688,0 41.61025234072619,41.60268870552953,0 41.61029196706927,41.60259853296278,0 41.61031481219717,41.60253190165724,0 41.61035844687865,41.60223514337269,0 41.61036954238337,41.60218785906051,0 41.61039637340205,41.60215475673632,0 41.61045399161384,41.60211834487725,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>
