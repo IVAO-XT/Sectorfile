@@ -8,4 +8,72 @@ E043.30.40.000
 60
 44
 6.0
-XT
+XT;XT/01-Nav Data;XT/02-Airport Data;XT/03-SID-STAR Data;XT/04-Airport Mapping;XT/05-VFR Routes & Fixes;XT/06-En Route;XT/07-MVAs;XT/08-Special Areas;XT/09-ATC
+
+[DEFINE]
+[ATC]
+F;09-ATC/xt.atc
+[ATIS]
+???
+[FIXES]
+F;01-Nav Data/FIX.txt
+[NDB]
+F;01-Nav Data/NDB.txt
+[VOR]
+F;01-Nav Data/VOR.txt
+[HIGH AIRWAY]
+F;01-Nav Data/HIGH.awy
+[LOW AIRWAY]
+F;01-Nav Data/LOW.awy
+[AIRPORT]
+F;02-Airport Data/airports.txt
+[RUNWAY]
+F;02-Airport Data/rwys.txt
+[ARTCC]
+F;06-En Route/ARTCC.txt
+[ARTCC HIGH]
+F;01-Nav Data/airspace.high
+[ARTCC LOW]
+F;01-Nav Data/airspace.low
+[GEO]
+F;06-En Route/caspiancoast.geo
+F;06-En Route/blackseacoast.geo
+F;04-Airport Mapping/ugtb.apt
+F;04-Airport Mapping/ugko.apt
+F;04-Airport Mapping/ugsa.apt
+F;04-Airport Mapping/ugsb.apt
+F;04-Airport Mapping/uggt.apt
+F;04-Airport Mapping/ugms.apt
+F;04-Airport Mapping/udyz.apt
+F;04-Airport Mapping/udye.apt
+F;04-Airport Mapping/udsg.apt
+F;04-Airport Mapping/ubbb.apt
+F;04-Airport Mapping/ubbf.apt
+F;04-Airport Mapping/ubbg.apt
+F;04-Airport Mapping/ubbl.apt
+F;04-Airport Mapping/ubbq.apt
+F;04-Airport Mapping/ubby.apt
+F;04-Airport Mapping/ubbn.apt
+F;08-Special Areas/uggg.restrict
+[FILLCOLOR]
+F;04-Airport Mapping/ugms.tfl
+F;04-Airport Mapping/udsg.tfl
+F;04-Airport Mapping/udye.tfl
+F;04-Airport Mapping/udyz.tfl
+F;04-Airport Mapping/ubbg.tfl
+F;04-Airport Mapping/ubbf.tfl
+F;04-Airport Mapping/ubbl.tfl
+F;04-Airport Mapping/ubby.tfl
+F;04-Airport Mapping/ugtb.tfl
+F;04-Airport Mapping/ugko.tfl
+F;04-Airport Mapping/ugsb.tfl
+F;04-Airport Mapping/ubbq.tfl
+F;04-Airport Mapping/ubbb.tfl
+F;04-Airport Mapping/ubbn.tfl
+F;06-En Route/ubdg.tfl
+F;06-En Route/uggg.tfl
+F;06-En Route/uddd.tfl
+F;06-En Route/ubba.tfl
+F;06-En Route/urrv.tfl
+F;06-En Route/ltaa.tfl
+F;06-En Route/oiix.tfl
