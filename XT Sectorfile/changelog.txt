@@ -9,4 +9,4 @@ New:
 - Completely new ground map for UGSB incorporating changes to stands
 
 Removed: 
-- None
+- UGSS group map (uncontrolled airport)
