@@ -2,9 +2,11 @@ AIRAC 2506:
 
 Updated:
 - Added following uncontrolled airports to database: UBBZ, UBEE, UD0A, UD0B, UD0C, UDCK, UG0A, UG0B
+- Ammended runway details for all airports
 
 New:
-- Completely new ground map for UBBB
+- Completely new ground map for UBBB incorporating changes to taxiways and stands
+- Completely new ground map for UGSB incorporating changes to stands
 
 Removed: 
 - None
