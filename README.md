@@ -1,9 +1,17 @@
 # Sector file
-## Coming Soon!
+## Welcome to the XT Sector File
 
-The XT IVAO sector file will soon be available for contribution via GitHub for all members to access!
+Thank you for your interest in the XT Sector File. In this GitHub you will have the opportunity to contribute directly to sector file changes, and raise existing issues for the team to look at. 
 
-We are in the process of organising our sector file, afterwhich it will be uploaded to GitHub, and members will be able to make changes by submitting pull requests. Further guidance will be released once the GitHub goes live.
+## How to contribute?
+
+### Raise existing issues with the team
+To raise an issue with our sector file team, head to the Issues page and create an issue. The team will then tag it and action it as appropriate.
+
+### Contibute to changes
+To contribute to the sector file, first create a fork of the sector file, this will be your version to work on. Make changes as required, then when you're ready to submit the changes, submit a pull request and this will be reviewed by our team. 
+You can use the following HQ guidance to help. Alternatively feel free to reach out for assistance in the XT discord. 
+https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition
 
 ## Sections
 
