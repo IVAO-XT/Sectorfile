@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>H(4).kml</name>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>H(4)</name>
+		<styleUrl>#m_ylw-pushpin1</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				50.06080359799826,40.47640954327035,0 50.06108344392317,40.45706019829733,0 50.06109584201826,40.45696792316847,0 50.06112419860792,40.45688912230011,0 50.06117420110612,40.45680371485084,0 50.06123822781036,40.45672977216289,0 50.0612984188257,40.45667927813106,0 50.06137944516785,40.45662315366093,0 50.06146560075101,40.4565798338106,0 50.06157501475514,40.45654287445856,0 50.06166644573364,40.45652222692363,0 50.06176015802851,40.45651672789464,0 50.0624001278459,40.45652305107717,0 50.06248700564029,40.4565319705079,0 50.0625780703112,40.45654821864653,0 50.06265369832362,40.45656836195777,0 50.06272388382553,40.4565938318755,0 50.06281227271702,40.45663336607128,0 50.06288619375633,40.45667493613472,0 50.06296195495562,40.45672887815284,0 50.06302686016972,40.45677955728154,0 50.0630990839499,40.45685982650225,0 50.06314906395531,40.45693339786069,0 50.0631919341302,40.4570235142012,0 50.06322217077026,40.45712993927692,0 50.06321415795986,40.45760138069345,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>

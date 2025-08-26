@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>D(1).kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>D(1)</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				50.04413049645587,40.46540963666144,0 50.04419329717362,40.46539997445227,0 50.04424677869779,40.46538474296458,0 50.04429971435171,40.46536439836481,0 50.04434146371091,40.46534436905934,0 50.04438487234097,40.46532117767722,0 50.04442744323592,40.46529065129398,0 50.0444721774133,40.46525517590769,0 50.04451695018305,40.46521870184663,0 50.04457773046354,40.46515909941329,0 50.04461014992092,40.46511934872299,0 50.04464062654736,40.4650799575422,0 50.04465210085426,40.4650576850097,0 50.04550795340018,40.4633170965492,0 50.04606481324136,40.46247931238563,0 50.04608373541916,40.46244366238484,0 50.04609188983956,40.46240620857147,0 50.04609127674842,40.46236894945833,0 50.04608537210979,40.46234058042513,0 50.04607027140582,40.46231205185016,0 50.04604606579714,40.46228239975312,0 50.04602680175062,40.46226365767311,0 50.04599946958399,40.46224092189107,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>
