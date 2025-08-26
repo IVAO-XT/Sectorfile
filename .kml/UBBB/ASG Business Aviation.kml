@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ASG Business Aviation.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>ASG Business Aviation</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				50.06682344934243,40.45546891999039,0 50.06667191063053,40.4555204393639,0 50.06667352211621,40.45554783493051,0 50.06667459630983,40.45559199523186,0 50.06668104423309,40.45565169312696,0 50.06669071626082,40.45569830667391,0 50.066706299458,40.45575064482616,0 50.06673196167904,40.45581607247421,0 50.06675386159748,40.45585509164993,0 50.06678751347209,40.45591077522635,0 50.06681647601999,40.45594957873364,0 50.06685706818138,40.45599469841685,0 50.06689169095381,40.45602528278149,0 50.06692750768849,40.45605647277442,0 50.06695456914666,40.45607645867737,0 50.0669832226865,40.45609644468107,0 50.06699715151955,40.45609462786917,0 50.06700272314131,40.45608614904356,0 50.06700232522286,40.45607888155534,0 50.06699834599103,40.45602588897098,0 50.0671154478042,40.45598192056773,0 50.06712001604667,40.45597253559289,0 50.06711773197465,40.45595133245519,0 50.06711362085881,40.4559169207147,0 50.06710859618145,40.45588007571525,0 50.06708882126087,40.45580900436908,0 50.06707115337669,40.45576531153906,0 50.06705348536532,40.45572199226529,0 50.06703925270453,40.45569659822606,0 50.06701123648514,40.45565249595243,0 50.06699060137528,40.45562435528991,0 50.06696782313017,40.45559686673584,0 50.06693416769781,40.45555859065522,0 50.06690195956104,40.45553050289995,0 50.06687481750109,40.45550792241765,0 50.06683320017211,40.45547790704467,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>
