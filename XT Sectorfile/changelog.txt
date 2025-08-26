@@ -1,4 +1,4 @@
-AIRAC 2506:
+AIRAC 2508:
 
 Updated:
 - Added following uncontrolled airports to database: UBBZ, UBEE, UD0A, UD0B, UD0C, UDCK, UG0A, UG0B
