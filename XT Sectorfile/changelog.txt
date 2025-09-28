@@ -10,7 +10,9 @@ New:
 - Completely new ground map for UBBB incorporating changes to taxiways and stands
 - Completely new ground map for UGSB incorporating changes to stands
 - Completely new ground map for UGMS incorporating changes to stands
+- Completely new ground map for UDYZ incorporating new taxiway and changes to stands and runway
 - Completely new ground map for UDSG
+- Added Armenia special areas (restricted & prohibited)
 
 Removed: 
 - UGSS group map (uncontrolled airport)
