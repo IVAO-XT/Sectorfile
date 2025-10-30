@@ -5,6 +5,8 @@ Updated:
 - Ammended runway details for all airports
 - New TMA shapes for UGKO & UGSB reflected correctly when UGKO_APP/UGSB_APP online
 - Gates for all airports as per AIP
+- Corrected UBBB TMA altitudes
+- Corrected UGSB TMA altitudes
 
 New:
 - Completely new ground map for UBBB incorporating changes to taxiways and stands
